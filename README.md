@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="BEROBLOOM - press start" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Berobloom">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=FFB627&center=true&vCenter=true&width=640&lines=Backend+developer;Reverse+engineer;Ports+old+games+to+the+GBA;Kicks+IoT+cameras+off+the+cloud" alt="Backend developer. Reverse engineer. Ports old games to the GBA. Kicks IoT cameras off the cloud.">
-  </a>
+  <img src="banner.svg" alt="BEROBLOOM" width="100%">
 </p>
 
 <p align="center">

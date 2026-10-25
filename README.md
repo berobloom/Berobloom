@@ -15,7 +15,7 @@
 
 ---
 
-## 🎮 `PLAYER 1` · Retro ports
+## 🎮 Retro ports
 
 DOS-era games running on a Game Boy Advance, built from open source engines and reconstructions.
 You supply the original game data.
@@ -46,7 +46,7 @@ You supply the original game data.
   </tr>
 </table>
 
-## 🏁 `PLAYER 2` · Reverse engineering
+## 🏁 Reverse engineering
 
 <a href="https://github.com/Berobloom/a2racer2-re">
   <img src="https://raw.githubusercontent.com/Berobloom/a2racer2-re/main/docs/media/police.gif" alt="A2 Racer II port: a police car joins the chase under a bridge" width="420" align="right">
@@ -61,7 +61,7 @@ It reads the original data files unchanged.
 
 <br clear="right">
 
-## 📷 `PLAYER 3` · Decloud the cheap stuff
+## 📷 Decloud the cheap stuff
 
 Budget smart-home gear from LSC (Action), running fully local with no Tuya cloud and no phone app.
 

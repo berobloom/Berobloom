@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="BEROBLOOM" width="100%">
+  <img src="banner-avatar.svg" alt="BEROBLOOM" width="100%">
 </p>
 
 <p align="center">

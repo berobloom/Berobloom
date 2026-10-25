@@ -63,9 +63,3 @@ Budget smart-home gear from LSC (Action), running fully local with no Tuya cloud
 | **[LSC-1080p-Anyka-Decloud](https://github.com/Berobloom/LSC-1080p-Anyka-Decloud)** | Local RTSP and ONVIF for the 2025 LSC 1080p indoor cam (Anyka AK3918AV130). Ready for Home Assistant and Frigate. |
 | **[LSCIndoorCameraLocal1080p](https://github.com/Berobloom/LSCIndoorCameraLocal1080p)** | Local streaming for the 2021 Fullhan version of the same camera. |
 | **[lscdoorbellmqtt](https://github.com/Berobloom/lscdoorbellmqtt)** | A Go MQTT client for the LSC video doorbell on OpenIPC, so the bell shows up in Home Assistant. |
-
----
-
-<p align="center">
-  <sub>▶ INSERT COIN TO CONTINUE ◀</sub>
-</p>

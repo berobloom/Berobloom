@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  A cheesehead from the Netherlands 🇳🇱 who writes backends for a living
-  (Python, Go, Java, C#) and, after hours, takes apart old games and cheap hardware.
+  Cheesehead 🧀🇳🇱 · backend dev · reverse engineer · GBA porter
 </p>
 
 ---

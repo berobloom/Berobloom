@@ -8,7 +8,7 @@
 
 ---
 
-## 🎮 Retro ports
+## Retro ports
 
 DOS-era games running on a Game Boy Advance, built from open source engines and reconstructions.
 You supply the original game data.
@@ -39,11 +39,13 @@ You supply the original game data.
   </tr>
 </table>
 
-## 🏁 Reverse engineering
+## Reverse engineering
 
-<a href="https://github.com/Berobloom/a2racer2-re">
-  <img src="https://raw.githubusercontent.com/Berobloom/a2racer2-re/main/docs/media/police.gif" alt="A2 Racer II port: a police car joins the chase under a bridge" width="420" align="right">
-</a>
+<p align="center">
+  <a href="https://github.com/Berobloom/a2racer2-re">
+    <img src="https://raw.githubusercontent.com/Berobloom/a2racer2-re/main/docs/media/police.gif" alt="A2 Racer II port: a police car joins the chase under a bridge" width="480">
+  </a>
+</p>
 
 **[a2racer2-re](https://github.com/Berobloom/a2racer2-re)**: a study of the 1998 Dutch
 racer **A2 Racer II**, worked out from its binaries, plus a new engine in C (SDL2, OpenGL)
@@ -52,9 +54,7 @@ It reads the original data files unchanged.
 
 `C` · `SDL2` · `OpenGL` · `Emscripten`
 
-<br clear="right">
-
-## 📷 Decloud the cheap stuff
+## Decloud the cheap stuff
 
 Budget smart-home gear from LSC (Action), running fully local with no Tuya cloud and no phone app.
 

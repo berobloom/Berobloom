@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" shape-rendering="crispEdges">
-<style>.blink{animation:b 1.2s steps(1) infinite}@keyframes b{50%{opacity:0}}.tw{animation:t 2.4s steps(1) infinite}@keyframes t{50%{opacity:.25}}</style>
+<!-- Logo shading runs mint to cyan to blue, after 16-bit title-screen logos, to match the GBA ports. -->
+<style>.blink{animation:b 1.2s steps(1) infinite}@keyframes b{50%{opacity:0}}.tw{animation:t 2.4s steps(1) infinite}@keyframes t{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.blink,.tw{animation:none}}</style>
 <rect x="0" y="0" width="960" height="240" fill="#0f0e1a"/>
 <rect x="328" y="36" width="8" height="8" fill="#3b3a5c" class="tw" style="animation-delay:1.6s"/>
 <rect x="840" y="136" width="4" height="4" fill="#5a5888"/>

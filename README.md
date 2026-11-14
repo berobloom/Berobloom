@@ -54,6 +54,19 @@ It reads the original data files unchanged.
 
 `C` · `SDL2` · `OpenGL` · `Emscripten`
 
+<p align="center">
+  <a href="https://github.com/Berobloom/redcat-rrr-re">
+    <img src="https://raw.githubusercontent.com/Berobloom/redcat-rrr-re/main/docs/media/redcat-race.gif" alt="RedCat's Razende Rekenrace port: the start lights go out, Brutus and Snitch pull away, and RedCat drives down the canyon" width="400">
+  </a>
+</p>
+
+**[redcat-rrr-re](https://github.com/Berobloom/redcat-rrr-re)**: a study of the 1996 Dutch DOS
+game **RedCat's Razende Rekenrace** (Davilex), a racing game for primary-school arithmetic,
+worked out from its executables, plus a new engine in C (SDL2) that plays the whole round on
+Linux and in the browser through WebAssembly. It reads the original data files unchanged.
+
+`C` · `SDL2` · `Emscripten`
+
 ## Decloud the cheap stuff
 
 Budget smart-home gear from LSC (Action), running fully local with no Tuya cloud and no phone app.
